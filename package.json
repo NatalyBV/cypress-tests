@@ -6,7 +6,7 @@
   "cy:open": "cypress open",
   "cy:run": "cypress run",
   "test": "cypress run"
-  }
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
